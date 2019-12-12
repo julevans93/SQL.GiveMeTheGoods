@@ -1,0 +1,1 @@
+SELECT CourseName FROM Courses WHERE CourseName BETWEEN '[ColdFusion]%' AND '[PYTHON]%';

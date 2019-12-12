@@ -1,0 +1,1 @@
+SELECT * FROM STUDENTS WHERE Country NOT IN ('Sint Maarten, Haiti');
